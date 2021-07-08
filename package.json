@@ -1,0 +1,14 @@
+{
+  "name": "ali-webass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "airbnb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Akbar Rafi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
